@@ -1,5 +1,5 @@
 # railMan_test
-User Rating for movies based on top ranking.
+User Rating for movies based on top movie ranking.
 
 Environment setup details
 
